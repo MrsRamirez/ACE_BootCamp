@@ -1,0 +1,27 @@
+
+body {
+	  background-color: black;
+	}
+h1   {
+	  color: gray;
+    background-color:pink;
+    text-align: center;
+    }
+p    {
+	  color: darkBlue;
+    font-family: monospace;
+    font-size: 32px;
+    }
+
+#luna {
+  color: purple;
+  background-color:white;
+  text-align: right;
+}
+
+.austin{
+  color: green;
+  background-color:purple;
+  text-align: left;
+  font-family: sans-serif;
+}

@@ -1,0 +1,35 @@
+/* page bkg orange and there is a matrmhjjmm,*/
+body{
+  /*background-image: url("qcc.png");*/
+  background-color: darkorange;
+  margin: 5px;
+  padding:25px;
+  text-align:rigth;
+  color:white;
+}
+/*^css rule combined^*/
+h1, h2, h3 {
+  background-color: gray;
+  opacity: 80%;
+  width: auto;
+  text-align: center;
+
+}
+
+div p {
+  background-color: black;
+}
+div p::first-letter {
+  background-color: white;
+}
+p {
+  background-color: yellow;
+  color: orange;
+  margin: inherit;
+  padding: 20px;
+}
+
+p::first-line {
+  color: #ff0000;
+  font-variant: small-caps;
+}
